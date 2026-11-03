@@ -1,0 +1,14 @@
+[BEGINVDF]
+Comment=Knockout with Ranged Weapons: lethal shots of the player knock humans out instead of killing them. Requires Ninja 4 and Toolkit.%%Nhttps://github.com/igorovh/KnockoutRanged
+BaseDir=.\
+VDFName=.\KnockoutRanged.vdf
+
+[FILES]
+Ninja\KnockoutRanged\* -r
+
+[EXCLUDE]
+.*
+
+[INCLUDE]
+
+[ENDVDF]
